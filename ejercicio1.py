@@ -1,4 +1,4 @@
-# autor : Gianella Alexandra Ramos Ticahuanca
+# autor : Skop
 # fecha : 10/02/2023
 # acción : Escribir un Programa que determine el máximo común divisor de 2 números enteros positivos a, b de manera recursiva.
 
